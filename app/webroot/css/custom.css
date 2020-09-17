@@ -1,0 +1,23 @@
+.text-center
+{
+    text-align: center!important;
+}
+.float-right
+{
+    float:right;
+}
+.float-left
+{
+    float:left;
+}
+.margin-top-float-left
+{
+  float: right;
+  margin-top:10px;
+
+}
+.mandatory:after {
+    content:" *";
+    color: red;
+  }
+ 
