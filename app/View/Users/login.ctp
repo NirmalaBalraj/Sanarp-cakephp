@@ -137,7 +137,7 @@ label.error {
 	<input type="submit" value="Login" id="submit1" class="btn btn-primary btn-block">	
     </div>
     <div>
-    <a class="float-left" href="signup">Sing Up</a>
+    <a class="float-left" href="signup">Register</a>
 	<a class="float-right" href="#" onclick=sform('email')>Login with Mobile</a>
     </div>
 
@@ -157,7 +157,7 @@ label.error {
     <input type="submit" value="Login" onclick=mobilesubmit()  class="btn btn-primary btn-block"> 
     </div>
     <div>
-    <a class="float-left" href="signup">Sing Up</a>
+    <a class="float-left" href="signup">Register</a>
     <a class="float-right" href="#" onclick=sform('mobile')>Login with Email</a>
     </div>
     </form> 
