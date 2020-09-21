@@ -104,7 +104,7 @@ if(pswd.length < 1)
 
     if(!regexp.test(pswd))
     {
-    $('#password').after('<span class="error">Password must contain number, uppercase and special character</span>');
+    $('#password').after('<span class="error">Password should contain number, uppercase and special character</span>');
     result='invalid';
     }
 }
