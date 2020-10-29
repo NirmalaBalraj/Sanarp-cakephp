@@ -80,7 +80,7 @@ label.error {
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="../users/login">Logout App</a>
+      <a class="nav-link" href="../users/login">Logout</a>
     </li>
   </ul>
 </nav>
